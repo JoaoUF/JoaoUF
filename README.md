@@ -10,7 +10,7 @@ Senior Backend Engineer with 3+ years of experience building scalable, high-perf
 
 ## What I'm working on
 
-Currently building healthcare interoperability solutions with blockchain and FHIR standards. Architecting microservices with Django, Celery, RabbitMQ, and Redis on AWS with Terraform.
+Currently building **NeuraConnect** — an AI-driven social network with real-time messaging, blockchain-based trust signals, and an AI recommendation engine serving 1K+ concurrent users.
 
 ## Tools I use
 
