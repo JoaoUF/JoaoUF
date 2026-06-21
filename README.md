@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Joao
 
-<!--
-**JoaoUF/JoaoUF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Engineer specializing in Python, Django, and Cloud Architecture
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Who I am
+
+Senior Backend Engineer with 3+ years of experience building scalable, high-performance distributed systems. Passionate about event-driven architectures, cloud-native development, and database optimization.
+
+## What I'm working on
+
+Currently building healthcare interoperability solutions with blockchain and FHIR standards. Architecting microservices with Django, Celery, RabbitMQ, and Redis on AWS with Terraform.
+
+## Tools I use
+
+**Backend:** Python, Django, FastAPI, NodeJS, Java, Spring Boot  
+**Cloud:** AWS (Fargate, ECR, Aurora, ElastiCache, CloudFront), Terraform, Docker, Kubernetes  
+**Data:** PostgreSQL, Redis, Celery, RabbitMQ  
+**Frontend:** React, React Native, Angular
+
+## How to reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaouf/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/JoaoUF)
