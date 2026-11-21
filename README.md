@@ -1,25 +1,59 @@
 # 👋 Hi, I'm Joao
 
-### Backend Engineer specializing in Python, Django, and Cloud Architecture
+### Backend & AI Engineer — I build RAG pipelines, LLM agents, and the infrastructure that keeps them reliable
 
 ---
 
 ## Who I am
 
-Senior Backend Engineer with 3+ years of experience building scalable, high-performance distributed systems. Passionate about event-driven architectures, cloud-native development, and database optimization.
+Backend & AI Engineer with 3+ years of experience building production systems. My focus is **LLM-powered applications**: retrieval-augmented generation, agentic workflows, vector search, and the async infrastructure underneath that makes inference fast, cheap, and reliable.
 
-## What I'm working on
+I care about the unglamorous parts — retrieval quality, inference cost, latency budgets, and what happens when a model call fails.
 
-Currently building **NeuraConnect** — an AI-driven social network with real-time messaging, blockchain-based trust signals, and an AI recommendation engine serving 1K+ concurrent users.
+## 🔭 What I'm working on
 
-## Tools I use
+**[NeuraConnect](https://github.com/DjangoChat/platoform)** — an AI-powered messaging platform (WhatsApp-style) where an **Ollama-based agent** learns user preferences to suggest relevant contacts, and a **Hugging Face pipeline** runs sentiment analysis, emotion detection, keyword extraction, and embedding generation on every message. Real-time messaging with async AI processing for 1K+ users.
 
-**Backend:** Python, Django, FastAPI, NodeJS, Java, Spring Boot  
-**Cloud:** AWS (Fargate, ECR, Aurora, ElastiCache, CloudFront), Terraform, Docker, Kubernetes  
-**Data:** PostgreSQL, Redis, Celery, RabbitMQ  
-**Frontend:** React, React Native, Angular
+**[WiraChain](https://github.com/JoaoUF/WIRACHAIN)** — a blockchain + FHIR electronic health record system with AI-powered semantic search over 10K+ medical records. Published in *Frontiers in Public Health*.
 
-## How to reach me
+**[E-Commerce Platform](https://github.com/JoaoUF/e-commerce-clothes)** — scalable storefront with AI-powered product recommendations using collaborative filtering and embedding-based similarity.
+
+## 🛠️ Tools I use
+
+**AI & LLM Engineering**
+`LangChain` · `GraphChain` · `AWS Bedrock` (Nova, Claude Opus) · `Ollama` · `vLLM` · `Hugging Face` · `pgvector` · `Pinecone` · `Chroma` · `RAG` · `Embeddings` · `Semantic Search`
+
+**Backend & APIs**
+`Python` · `Django` · `Django REST Framework` · `FastAPI` · `AsyncIO` · `Streaming APIs` · `Java` · `Spring Boot` · `NodeJS`
+
+**Cloud & Infrastructure**
+`AWS` (Bedrock, Fargate, ECR, Aurora, ElastiCache, CloudFront, SQS) · `GCP` · `Docker` · `Kubernetes` · `Terraform` · `GitHub Actions`
+
+**Data & Async**
+`PostgreSQL` · `Redis` · `Celery` · `RabbitMQ` · `ETL Pipelines` · `Hybrid Search` · `Re-ranking`
+
+**Observability**
+`OpenTelemetry` · `Prometheus` · `Grafana` · `Loki` · `Tempo`
+
+**Frontend**
+`React` · `Redux Toolkit` · `React Native` · `Vite` · `Angular`
+
+## 📄 Publication
+
+**WiraChain — Blockchain & FHIR Platform for Healthcare Interoperability**
+*Frontiers in Public Health*, Vol. 14, Feb 2026 · [DOI: 10.3389/fpubh.2026.1746772](https://doi.org/10.3389/fpubh.2026.1746772)
+
+## 📜 Certifications
+
+- AWS Certified Cloud Practitioner — Amazon Web Services
+- Scrum Master Certification — LearnQuest
+- Docker Mastery: with Kubernetes + Swarm
+
+## 🌱 Currently exploring
+
+AI agents & tool calling · Evaluation-driven development for LLMs · Inference optimization on GPU
+
+## 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaouf/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/JoaoUF)
