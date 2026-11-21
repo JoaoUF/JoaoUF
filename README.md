@@ -38,17 +38,6 @@ I care about the unglamorous parts — retrieval quality, inference cost, latenc
 **Frontend**
 `React` · `Redux Toolkit` · `React Native` · `Vite` · `Angular`
 
-## 📄 Publication
-
-**WiraChain — Blockchain & FHIR Platform for Healthcare Interoperability**
-*Frontiers in Public Health*, Vol. 14, Feb 2026 · [DOI: 10.3389/fpubh.2026.1746772](https://doi.org/10.3389/fpubh.2026.1746772)
-
-## 📜 Certifications
-
-- AWS Certified Cloud Practitioner — Amazon Web Services
-- Scrum Master Certification — LearnQuest
-- Docker Mastery: with Kubernetes + Swarm
-
 ## 🌱 Currently exploring
 
 AI agents & tool calling · Evaluation-driven development for LLMs · Inference optimization on GPU
