@@ -14,7 +14,7 @@ I care about the unglamorous parts — retrieval quality, inference cost, latenc
 
 **[NeuraConnect](https://github.com/DjangoChat/platoform)** — an AI-powered messaging platform (WhatsApp-style) where an **Ollama-based agent** learns user preferences to suggest relevant contacts, and a **Hugging Face pipeline** runs sentiment analysis, emotion detection, keyword extraction, and embedding generation on every message. Real-time messaging with async AI processing for 1K+ users.
 
-**[WiraChain]([https://github.com/JoaoUF/WIRACHAIN](https://github.com/xenocore-wirachain/platform))** — a blockchain + FHIR electronic health record system with AI-powered semantic search over 10K+ medical records. Published in *Frontiers in Public Health*.
+**[WiraChain](https://github.com/xenocore-wirachain/platform)** — a blockchain + FHIR electronic health record system with AI-powered semantic search over 10K+ medical records. Published in *Frontiers in Public Health*.
 
 ## 🛠️ Tools I use
 
